@@ -7,5 +7,8 @@ public class Main {
         System.out.println("I hope you are well Tiroxin...");
         System.out.println("i am well");
         System.out.println("i have added this line while you are working on your branch");
+        System.out.println("feature 1");
+        System.out.println("feature 2");
+        System.out.println("feature 3");
     }
 }
