@@ -12,5 +12,6 @@ public class Main {
         System.out.println("feature 3");
         System.out.println("feature 4");
         System.out.println("feature 5");
+        System.out.println("new feature from A-5");
     }
 }
